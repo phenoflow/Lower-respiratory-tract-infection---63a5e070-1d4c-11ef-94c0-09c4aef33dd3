@@ -1,0 +1,45 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/lower-respiratory-tract-infection-lrti-bronchiolitis---primary.py
+inputModule3:
+  class: File
+  path: python/pneumococcal-lower-respiratory-tract-infection-lrti---primary.py
+inputModule4:
+  class: File
+  path: python/lower-respiratory-tract-infection-lrti-tracheobronchitis---primary.py
+inputModule5:
+  class: File
+  path: python/purulent-lower-respiratory-tract-infection-lrti---primary.py
+inputModule6:
+  class: File
+  path: python/respiratory---primary.py
+inputModule7:
+  class: File
+  path: python/lower-respiratory-tract-infection-lrti-empyema---primary.py
+inputModule8:
+  class: File
+  path: python/acute-lower-respiratory-tract-infection-lrti---primary.py
+inputModule9:
+  class: File
+  path: python/lower-respiratory-tract-infection-lrti-chest---primary.py
+inputModule10:
+  class: File
+  path: python/lower-respiratory-tract-infection-lrti-bronchiectasis---primary.py
+inputModule11:
+  class: File
+  path: python/lower-respiratory-tract-infection-lrti-pleurisy---primary.py
+inputModule12:
+  class: File
+  path: python/recurrent-lower-respiratory-tract-infection-lrti---primary.py
+inputModule13:
+  class: File
+  path: python/resp---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
